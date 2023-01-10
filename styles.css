@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.blockquote{
+    display: block;
+    margin:10px;
+    border-left:8px solid green;
+    padding: 15px;
+    width:600px;
+    background-color:#f8fffe"";
+   font-weight: bold;
+}
